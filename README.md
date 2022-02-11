@@ -22,4 +22,4 @@ Project Task
     1. Reproduce the pipeline by setting up the workspace in the system you will be using
     2. Perform downstream analysis for miRNA analysis
     
-Through the project, you need to demonstrate collaborative research skills, informative visualization, and report writing.
+Through the project, we demonstrated  collaborative research skills, informative visualization, and report writing.
